@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Final</string>
+
+    <string-array name="reason">
+        <item>支出_食</item>
+        <item>支出_衣</item>
+        <item>支出_住</item>
+        <item>支出_行</item>
+        <item>支出_育</item>
+        <item>支出_樂</item>
+        <item>支出_其他</item>
+        <item>存入</item>
+    </string-array>
+
+    <string name="info">【使用說明】</string>
+    <string name="info2">輸入日期、零用金的用處、金額，以進行紀錄與花費金額的統計</string>
+    <string name="info3">【版權宣告】</string>
+    <string name="info4">本APP由 110813037余珮綺 進行製作</string>
+
+    <string name="cost">目前已花費：(點我進行查看)</string>
+    <string name="save">目前已存入：(點我進行查看)</string>
+</resources>
